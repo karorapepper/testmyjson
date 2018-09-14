@@ -13,12 +13,6 @@
                 "StandardRatePA": "4.04%",
                 "ComparisonRatePA": "4.23%",
                 "LPF": "n/a"
-              },
-              {
-                "LVR": ">55% up to 65%",
-                "StandardRatePA": "4.20%",
-                "ComparisonRatePA": "4.39%",
-                "LPF": "n/a"
               }
             ]
           },
@@ -28,12 +22,6 @@
             "features": [
               {
                 "LVR": "Up to 55%",
-                "StandardRatePA": "4.80%",
-                "ComparisonRatePA": "4.99%",
-                "LPF": "n/a"
-              },
-              {
-                "LVR": ">55% up to 65%",
                 "StandardRatePA": "4.80%",
                 "ComparisonRatePA": "4.99%",
                 "LPF": "n/a"
@@ -54,12 +42,6 @@
                 "StandardRatePA": "5.29%",
                 "ComparisonRatePA": "5.62%",
                 "LPF": "0.33%"
-              },
-              {
-                "LVR": ">65% up to 70%",
-                "StandardRatePA": "5.49%",
-                "ComparisonRatePA": "5.77%",
-                "LPF": "1.00%"
               }
             ]
           },
