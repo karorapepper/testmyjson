@@ -5,45 +5,13 @@
         "category": [
           {
             "categorytype": "Full Doc",
-            "categoryname": "Pepper Essential - Full Doc",
-            "features": [
-              {
-                "LVR": "Up to 55%",
-                "StandardRatePA": "4.04%",
-                "ComparisonRatePA": "4.23%",
-                "LPF": "na"
-              }
-            ]
-          },
-          {
-            "categorytype": "Plus Full Doc",
-            "categoryname": "Pepper Essential - Plus Full Doc",
-            "features": [
-              {
-                "LVR": "Up to 55%",
-                "StandardRatePA": "4.80%",
-                "ComparisonRatePA": "4.99%",
-                "LPF": "na"
-              }
-            ]
+            "categoryname": "Pepper Essential - Full Doc"
           }
         ]
       },
       {
         "name": "Near Prime",
         "category": [
-          {
-            "categorytype": "Full Doc",
-            "categoryname": "Pepper Easy - Full Doc",
-            "features": [
-              {
-                "LVR": "Up to 65%",
-                "StandardRatePA": "5.29%",
-                "ComparisonRatePA": "5.62%",
-                "LPF": "0.33%"
-              }
-            ]
-          },
           {
             "categorytype": "Full Doc Plus",
             "categoryname": "Pepper Easy Full Doc Plus",
