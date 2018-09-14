@@ -53,12 +53,6 @@
                 "StandardRatePA": "5.44%",
                 "ComparisonRatePA": "5.66%",
                 "LPF": "0.50%"
-              },
-              {
-                "LVR": ">65% up to 70%",
-                "StandardRatePA": "5.64%",
-                "ComparisonRatePA": "5.91%",
-                "LPF": "1.00%"
               }
             ]
           }
