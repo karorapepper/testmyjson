@@ -1,0 +1,124 @@
+[
+  {
+    "Loantype": [
+      {
+        "name": "Prime",
+        "category": [
+          {
+            "categorytype": "Full Doc",
+            "categoryname": "Pepper Essential - Full Doc",
+            "features": [
+              {
+                "LVR": "Up to 55%",
+                "StandardRatePA": "4.04%",
+                "ComparisonRatePA": "4.23%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">55% up to 65%",
+                "StandardRatePA": "4.20%",
+                "ComparisonRatePA": "4.39%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">65% up to 70%",
+                "StandardRatePA": "4.24%",
+                "ComparisonRatePA": "4.43%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">70% up to 75%",
+                "StandardRatePA": "4.30%",
+                "ComparisonRatePA": "4.49%",
+                "LPF": "n/a"
+              }
+            ]
+          },
+          {
+            "categorytype": "Plus Full Doc",
+            "categoryname": "Pepper Essential - Plus Full Doc",
+            "features": [
+              {
+                "LVR": "Up to 55%",
+                "StandardRatePA": "4.80%",
+                "ComparisonRatePA": "4.99%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">55% up to 65%",
+                "StandardRatePA": "4.80%",
+                "ComparisonRatePA": "4.99%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">65% up to 70%",
+                "StandardRatePA": "4.80%",
+                "ComparisonRatePA": "4.99%",
+                "LPF": "n/a"
+              },
+              {
+                "LVR": ">70% up to 75%",
+                "StandardRatePA": "4.99%",
+                "ComparisonRatePA": "5.18%",
+                "LPF": "n/a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Near Prime",
+        "category": [
+          {
+            "categorytype": "Full Doc",
+            "categoryname": "Pepper Easy - Full Doc",
+            "features": [
+              {
+                "LVR": "Up to 65%",
+                "StandardRatePA": "5.29%",
+                "ComparisonRatePA": "5.62%",
+                "LPF": "0.33%"
+              },
+              {
+                "LVR": ">65% up to 70%",
+                "StandardRatePA": "5.49%",
+                "ComparisonRatePA": "5.77%",
+                "LPF": "1.00%"
+              },
+              {
+                "LVR": ">70% up to 75%",
+                "StandardRatePA": "5.69%",
+                "ComparisonRatePA": "5.99%",
+                "LPF": "1.25%"
+              }
+            ]
+          },
+          {
+            "categorytype": "Full Doc Plus",
+            "categoryname": "Pepper Easy Full Doc Plus",
+            "features": [
+              {
+                "LVR": "Up to 65%",
+                "StandardRatePA": "5.44%",
+                "ComparisonRatePA": "5.66%",
+                "LPF": "0.50%"
+              },
+              {
+                "LVR": ">65% up to 70%",
+                "StandardRatePA": "5.64%",
+                "ComparisonRatePA": "5.91%",
+                "LPF": "1.00%"
+              },
+              {
+                "LVR": ">70% up to 75%",
+                "StandardRatePA": "5.84%",
+                "ComparisonRatePA": "6.14%",
+                "LPF": "1.25%"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
