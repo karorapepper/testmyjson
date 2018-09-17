@@ -1,5 +1,4 @@
-[
-      {
+{
         "name": "Prime",
         "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
         "category": [
@@ -58,6 +57,5 @@
                 "ComparisonRatePA": "5.91%",
                 "LPF": "1.00%"
               }         ]
-          }             ]
+          }       ]
       }
-    ]
