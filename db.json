@@ -1,4 +1,4 @@
-{
+{ "Tabs":{
         "Name": "Prime",
         "CategoryHeader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
         "TabContentList": [
@@ -208,3 +208,4 @@
           }
         ]
       }
+}
