@@ -1,4 +1,5 @@
-"LoanType": [{
+"LoanType": [
+        {
         "name": "Prime",
         "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
         "category": [
@@ -22,9 +23,8 @@
                 "StandardRatePA": "4.80%",
                 "ComparisonRatePA": "4.99%",
                 "LPF": "n/a"
-              }        ]
-          }
-                   ]
+              }]
+          }]
       },
       {
         "name": "Near Prime",
