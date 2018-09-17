@@ -1,6 +1,64 @@
 {
   "Tabs": {
            "Name": "Prime",
-           "CategoryHeader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF"
+           "CategoryHeader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
+    "TabContentList": [
+          {
+            "TabTitleShort": "Full Doc",
+            "TabTitleLong": "Pepper Essential - Full Doc",
+            "InterestRates": [
+              {
+                "Lvr": "Up to 55%",
+                "StandardRate": "4.04%",
+                "ComparisonRate": "4.23%",
+                "LpfLinkText": "n/a"
+              },
+              {
+                "Lvr": ">55% up to 65%",
+                "StandardRate": "4.20%",
+                "ComparisonRate": "4.39%",
+                "LpfLinkText": "n/a"
+              },
+              {
+                "Lvr": ">65% up to 70%",
+                "StandardRate": "4.24%",
+                "ComparisonRate": "4.43%",
+                "LpfLinkText": "n/a"
+              },
+              {
+                "Lvr": ">70% up to 75%",
+                "StandardRate": "4.30%",
+                "ComparisonRate": "4.49%",
+                "LpfLinkText": "n/a"
+              },
+              {
+                "Lvr": ">75% up to 80%",
+                "StandardRate": "4.40%",
+                "ComparisonRate": "4.59%",
+                "LpfLinkText": "n/a"
+              },
+              {
+                "Lvr": ">80% up to 85%",
+                "StandardRate": "4.64%",
+                "ComparisonRate": "4.83%",
+                "LpfLinkText": "n/a",
+                "ShowLpfCalculatorUrl": true
+              },
+              {
+                "Lvr": ">85% up to 90%",
+                "StandardRate": "4.04%",
+                "ComparisonRate": "4.23%",
+                "LpfLinkText": "n/a",
+                "ShowLpfCalculatorUrl": true
+              },
+              {
+                "Lvr": ">90%** up to 95%",
+                "StandardRate": "4.99%",
+                "ComparisonRate": "5.51%",
+                "LpfLinkText": "n/a",
+                "ShowLpfCalculatorUrl": true
+              }
+            ]
+          } ]
           }
 }
