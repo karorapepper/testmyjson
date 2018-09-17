@@ -1,82 +1,210 @@
 {
-    "Tabs": [
+    "tabs": [
       {
-        "Name": "Prime",
-        "CategoryHeader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
-        "TabContentList": [
+        "name": "Prime",
+        "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
+        "tabcontentlist": [
           {
-            "TabTitleShort": "Full Doc",
-            "TabTitleLong": "Pepper Essential - Full Doc",
-            "InterestRates": [
+            "tabtitleshort": "Full Doc",
+            "tabtitlelong": "Pepper Essential - Full Doc",
+            "interestrates": [
               {
-                "Lvr": "Up to 55%",
-                "StandardRate": "4.04%",
-                "ComparisonRate": "4.23%",
-                "LpfLinkText": "n/a"
+                "lvr": "Up to 55%",
+                "standardrate": "4.04%",
+                "comparisonrate": "4.23%",
+                "lpflinktext": "NA"
               },
               {
-                "Lvr": ">90%** up to 95%",
-                "StandardRate": "4.99%",
-                "ComparisonRate": "5.51%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
+                "lvr": ">55% up to 65%",
+                "standardrate": "4.20%",
+                "comparisonrate": "4.39%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "4.24%",
+                "comparisonrate": "4.43%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "4.30%",
+                "comparisonrate": "4.49%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "4.40%",
+                "comparisonrate": "4.59%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "4.64%",
+                "comparisonrate": "4.83%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">85% up to 90%",
+                "standardrate": "4.04%",
+                "comparisonrate": "4.23%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">90%** up to 95%",
+                "standardrate": "4.99%",
+                "comparisonrate": "5.51%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
               }
             ]
           },
           {
-            "TabTitleShort": "Plus Full Doc",
-            "TabTitleLong": "Pepper Essential - Plus Full Doc",
-            "InterestRates": [
+            "tabtitleshort": "Plus Full Doc",
+            "tabtitlelong": "Pepper Essential - Plus Full Doc",
+            "interestrates": [
               {
-                "Lvr": "Up to 55%",
-                "StandardRate": "4.80%",
-                "ComparisonRate": "4.99%",
-                "LpfLinkText": "n/a"
+                "lvr": "Up to 55%",
+                "standardrate": "4.80%",
+                "comparisonrate": "4.99%",
+                "lpflinktext": "NA"
               },
               {
-                "Lvr": ">90%** up to 95%",
-                "StandardRate": "5.85%",
-                "ComparisonRate": "6.52%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
+                "lvr": ">55% up to 65%",
+                "standardrate": "4.80%",
+                "comparisonrate": "4.99%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "4.80%",
+                "comparisonrate": "4.99%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "4.99%",
+                "comparisonrate": "5.18%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "4.99%",
+                "comparisonrate": "5.18%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "5.14%",
+                "comparisonrate": "5.52%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">85% up to 90%",
+                "standardrate": "5.59%",
+                "comparisonrate": "6.04%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">90%** up to 95%",
+                "standardrate": "5.85%",
+                "comparisonrate": "6.52%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
               }
             ]
           },
           {
-            "TabTitleShort": "Alt Doc",
-            "TabTitleLong": "Pepper Essential - Alt Doc",
-            "InterestRates": [
+            "tabtitleshort": "Alt Doc",
+            "tabtitlelong": "Pepper Essential - Alt Doc",
+            "interestrates": [
               {
-                "Lvr": "Up to 55%",
-                "StandardRate": "4.54%",
-                "ComparisonRate": "4.73%",
-                "LpfLinkText": "n/a"
+                "lvr": "Up to 55%",
+                "standardrate": "4.54%",
+                "comparisonrate": "4.73%",
+                "lpflinktext": "NA"
               },
               {
-                "Lvr": ">75% up to 80%",
-                "StandardRate": "5.44%",
-                "ComparisonRate": "5.76%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
+                "lvr": ">55% up to 65%",
+                "standardrate": "5.04%",
+                "comparisonrate": "5.23%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.24%",
+                "comparisonrate": "5.43%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "5.34%",
+                "comparisonrate": "5.66%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "5.44%",
+                "comparisonrate": "5.76%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "NA",
+                "comparisonrate": "NA",
+                "lpflinktext": "NA"
               }
             ]
           },
           {
-            "TabTitleShort": "PLUS Alt Doc",
-            "TabTitleLong": "Pepper Essential - PLUS Alt Doc",
-            "InterestRates": [
+            "tabtitleshort": "PLUS Alt Doc",
+            "tabtitlelong": "Pepper Essential - PLUS Alt Doc",
+            "interestrates": [
               {
-                "Lvr": "Up to 55%",
-                "StandardRate": "5.04%",
-                "ComparisonRate": "5.23%",
-                "LpfLinkText": "n/a"
+                "lvr": "Up to 55%",
+                "standardrate": "5.04%",
+                "comparisonrate": "5.23%",
+                "lpflinktext": "NA"
               },
               {
-                "Lvr": ">70% up to 75%",
-                "StandardRate": "5.84%",
-                "ComparisonRate": "6.20%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
+                "lvr": ">55% up to 65%",
+                "standardrate": "5.54%",
+                "comparisonrate": "5.73%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": "",
+                "mrf": ""
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.74%",
+                "comparisonrate": "5.93%",
+                "lpflinktext": "NA"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "5.84%",
+                "comparisonrate": "6.20%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "5.94%",
+                "comparisonrate": "6.30%",
+                "lpflinktext": "NA",
+                "showlpfcalculatorurl": true
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "NA",
+                "comparisonrate": "NA",
+                "lpflinktext": "NA"
               }
             ]
           }

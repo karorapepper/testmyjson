@@ -1,0 +1,160 @@
+{
+    "tabs": [
+      {
+        "name": "Specialist",
+        "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), MRF***",
+        "tabcontentlist": [
+          {
+            "tabtitleshort": "Full Doc",
+            "tabtitlelong": "Pepper Advantage - Full Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 55%",
+                "standardrate": "5.59%",
+                "comparisonrate": "5.94%",
+                "mrf": "0.50%"
+              },
+              {
+                "lvr": ">55% up to 65%",
+                "standardrate": "5.69%",
+                "comparisonrate": "6.04%",
+                "mrf": "0.50%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "6.29%",
+                "comparisonrate": "6.70%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "6.75%",
+                "comparisonrate": "7.19%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "6.95%",
+                "comparisonrate": "7.42%",
+                "mrf": "1.50%"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "7.30%",
+                "comparisonrate": "7.83%",
+                "mrf": "2.00%"
+              },
+              {
+                "lvr": ">85% up to 90%",
+                "standardrate": "7.99%",
+                "comparisonrate": "8.53%",
+                "mrf": "2.00%"
+              },
+              {
+                "lvr": ">90%** up to 95%",
+                "standardrate": "8.19%",
+                "comparisonrate": "8.73%",
+                "mrf": "2.00%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "Plus Full Doc",
+            "tabtitlelong": "Pepper Advantage - Plus Full Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 55%",
+                "standardrate": "6.04%",
+                "comparisonrate": "6.45%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">55% up to 65%",
+                "standardrate": "6.14%",
+                "comparisonrate": "6.58%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "6.69%",
+                "comparisonrate": "7.13%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "7.19%",
+                "comparisonrate": "7.66%",
+                "mrf": "1.50%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "7.44%",
+                "comparisonrate": "7.94%",
+                "mrf": "1.75%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "Alt Doc",
+            "tabtitlelong": "Pepper Advantage - Alt Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "5.99%",
+                "comparisonrate": "6.36%",
+                "mrf": "0.65%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "6.45%",
+                "comparisonrate": "6.89%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "6.95%",
+                "comparisonrate": "7.42%",
+                "mrf": "1.50%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "7.19%",
+                "comparisonrate": "7.69%",
+                "mrf": "1.75%"
+              },
+              {
+                "lvr": "80%^^ up to 85%",
+                "standardrate": "7.95%",
+                "comparisonrate": "8.49%",
+                "mrf": "2.00%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "PLUS Alt Doc",
+            "tabtitlelong": "Pepper Advantage - PLUS Alt Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "6.39%",
+                "comparisonrate": "6.83%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "6.99%",
+                "comparisonrate": "7.46%",
+                "mrf": "1.50%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "7.29%",
+                "comparisonrate": "7.79%",
+                "mrf": "1.75%"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "tabs": [
+      {
+        "name": "Near Prime",
+        "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), MRF",
+        "tabcontentlist": [
+          {
+            "tabtitleshort": "Full Doc",
+            "tabtitlelong": "Pepper Easy - Full Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "5.29%",
+                "comparisonrate": "5.62%",
+                "mrf": "0.33%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.49%",
+                "comparisonrate": "5.77%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "5.69%",
+                "comparisonrate": "5.99%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "5.84%",
+                "comparisonrate": "6.14%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "6.50%",
+                "comparisonrate": "6.83%",
+                "mrf": "1.55%"
+              },
+              {
+                "lvr": ">85% up to 90%",
+                "standardrate": "6.78%",
+                "comparisonrate": "7.14%",
+                "mrf": "1.75%"
+              },
+              {
+                "lvr": ">90%** up to 95%",
+                "standardrate": "7.79%",
+                "comparisonrate": "8.18%",
+                "mrf": "2.00%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "Full Doc Plus",
+            "tabtitlelong": "Pepper Easy Full Doc Plus",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "5.44%",
+                "comparisonrate": "5.66%",
+                "mrf": "0.50%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.64%",
+                "comparisonrate": "5.91%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "5.84%",
+                "comparisonrate": "6.14%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "5.99%",
+                "comparisonrate": "6.29%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "6.65%",
+                "comparisonrate": "6.98%",
+                "mrf": "1.55%"
+              },
+              {
+                "lvr": ">85% up to 90%",
+                "standardrate": "6.93%",
+                "comparisonrate": "7.29%",
+                "mrf": "1.75%"
+              },
+              {
+                "lvr": ">90%** up to 95%",
+                "standardrate": "7.94%",
+                "comparisonrate": "8.33%",
+                "mrf": "2.00%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "Alt Doc",
+            "tabtitlelong": "Pepper Easy - Alt Doc",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "5.69%",
+                "comparisonrate": "5.93%",
+                "mrf": "0.65%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.84%",
+                "comparisonrate": "6.11%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "6.15%",
+                "comparisonrate": "6.45%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "6.15%",
+                "comparisonrate": "6.45%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">80%^^ up to 85%",
+                "standardrate": "7.15%",
+                "comparisonrate": "7.48%",
+                "mrf": "1.55%"
+              }
+            ]
+          },
+          {
+            "tabtitleshort": "Alt Doc Plus",
+            "tabtitlelong": "Pepper Easy Alt Doc Plus",
+            "interestrates": [
+              {
+                "lvr": "Up to 65%",
+                "standardrate": "5.84%",
+                "comparisonrate": "6.08%",
+                "mrf": "0.65%"
+              },
+              {
+                "lvr": ">65% up to 70%",
+                "standardrate": "5.99%",
+                "comparisonrate": "6.26%",
+                "mrf": "1.00%"
+              },
+              {
+                "lvr": ">70% up to 75%",
+                "standardrate": "6.30%",
+                "comparisonrate": "6.60%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">75% up to 80%",
+                "standardrate": "6.30%",
+                "comparisonrate": "6.60%",
+                "mrf": "1.25%"
+              },
+              {
+                "lvr": ">80% up to 85%",
+                "standardrate": "7.30%",
+                "comparisonrate": "7.64%",
+                "mrf": "1.55%"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
