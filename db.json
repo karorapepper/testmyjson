@@ -2,6 +2,7 @@
     "Loantype": [
       {
         "name": "Prime",
+        "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
         "category": [
           {
             "categorytype": "Full Doc",
@@ -29,6 +30,7 @@
       },
       {
         "name": "Near Prime",
+        "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), MRF",
         "category": [
           {
             "categorytype": "Full Doc Plus",
