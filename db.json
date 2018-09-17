@@ -1,4 +1,4 @@
-{
+"LoanType": [{
         "name": "Prime",
         "categoryheader": "LVR, Standard Rate (p.a.), ^Comparison Rate (p.a.), LPF",
         "category": [
@@ -58,4 +58,4 @@
                 "LPF": "1.00%"
               }         ]
           }       ]
-      }
+      }]
