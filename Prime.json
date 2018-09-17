@@ -15,44 +15,6 @@
                 "LpfLinkText": "n/a"
               },
               {
-                "Lvr": ">55% up to 65%",
-                "StandardRate": "4.20%",
-                "ComparisonRate": "4.39%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">65% up to 70%",
-                "StandardRate": "4.24%",
-                "ComparisonRate": "4.43%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">70% up to 75%",
-                "StandardRate": "4.30%",
-                "ComparisonRate": "4.49%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">75% up to 80%",
-                "StandardRate": "4.40%",
-                "ComparisonRate": "4.59%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">80% up to 85%",
-                "StandardRate": "4.64%",
-                "ComparisonRate": "4.83%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
-              },
-              {
-                "Lvr": ">85% up to 90%",
-                "StandardRate": "4.04%",
-                "ComparisonRate": "4.23%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
-              },
-              {
                 "Lvr": ">90%** up to 95%",
                 "StandardRate": "4.99%",
                 "ComparisonRate": "5.51%",
@@ -70,44 +32,6 @@
                 "StandardRate": "4.80%",
                 "ComparisonRate": "4.99%",
                 "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">55% up to 65%",
-                "StandardRate": "4.80%",
-                "ComparisonRate": "4.99%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">65% up to 70%",
-                "StandardRate": "4.80%",
-                "ComparisonRate": "4.99%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">70% up to 75%",
-                "StandardRate": "4.99%",
-                "ComparisonRate": "5.18%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">75% up to 80%",
-                "StandardRate": "4.99%",
-                "ComparisonRate": "5.18%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">80% up to 85%",
-                "StandardRate": "5.14%",
-                "ComparisonRate": "5.52%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
-              },
-              {
-                "Lvr": ">85% up to 90%",
-                "StandardRate": "5.59%",
-                "ComparisonRate": "6.04%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
               },
               {
                 "Lvr": ">90%** up to 95%",
@@ -129,36 +53,11 @@
                 "LpfLinkText": "n/a"
               },
               {
-                "Lvr": ">55% up to 65%",
-                "StandardRate": "5.04%",
-                "ComparisonRate": "5.23%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">65% up to 70%",
-                "StandardRate": "5.24%",
-                "ComparisonRate": "5.43%",
-                "LpfLinkText": "n/a"
-              },
-              {
-                "Lvr": ">70% up to 75%",
-                "StandardRate": "5.34%",
-                "ComparisonRate": "5.66%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
-              },
-              {
                 "Lvr": ">75% up to 80%",
                 "StandardRate": "5.44%",
                 "ComparisonRate": "5.76%",
                 "LpfLinkText": "n/a",
                 "ShowLpfCalculatorUrl": true
-              },
-              {
-                "Lvr": ">80% up to 85%",
-                "StandardRate": "n/a",
-                "ComparisonRate": "n/a",
-                "LpfLinkText": "n/a"
               }
             ]
           },
@@ -173,38 +72,11 @@
                 "LpfLinkText": "n/a"
               },
               {
-                "Lvr": ">55% up to 65%",
-                "StandardRate": "5.54%",
-                "ComparisonRate": "5.73%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": "",
-                "Mrf": ""
-              },
-              {
-                "Lvr": ">65% up to 70%",
-                "StandardRate": "5.74%",
-                "ComparisonRate": "5.93%",
-                "LpfLinkText": "n/a"
-              },
-              {
                 "Lvr": ">70% up to 75%",
                 "StandardRate": "5.84%",
                 "ComparisonRate": "6.20%",
                 "LpfLinkText": "n/a",
                 "ShowLpfCalculatorUrl": true
-              },
-              {
-                "Lvr": ">75% up to 80%",
-                "StandardRate": "5.94%",
-                "ComparisonRate": "6.30%",
-                "LpfLinkText": "n/a",
-                "ShowLpfCalculatorUrl": true
-              },
-              {
-                "Lvr": ">80% up to 85%",
-                "StandardRate": "n/a",
-                "ComparisonRate": "n/a",
-                "LpfLinkText": "n/a"
               }
             ]
           }
